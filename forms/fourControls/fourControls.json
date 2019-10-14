@@ -14,27 +14,45 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "fourControls", 
         "Elements", 
-        "inptFirstName.json"
+        "Hamburger1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "fourControls", 
         "Elements", 
-        "btnEnter.json"
+        "Numbers.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "fourControls", 
         "Elements", 
-        "lblMember.json"
+        "Switch1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "fourControls", 
+        "Elements", 
+        "Textarea1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "fourControls", 
+        "Elements", 
+        "Label1.json"
       ]
     }
   ], 
@@ -44,7 +62,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "membership", 
+  "id": "fourControls", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
